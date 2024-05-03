@@ -1,6 +1,6 @@
-package gdfgdfgdfg;
+package com.example.crypto;
 
-public class test {
+public class PassWordTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
