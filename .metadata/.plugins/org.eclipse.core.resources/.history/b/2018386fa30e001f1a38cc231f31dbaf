@@ -1,6 +1,6 @@
-package com.example.hello;
+package com.example.crypto;
 
-public class JavaBasics {
+public class CipherModeExample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
